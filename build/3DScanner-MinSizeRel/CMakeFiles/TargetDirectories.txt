@@ -1,0 +1,8 @@
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/ScannerApp.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/edit_cache.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/rebuild_cache.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/list_install_components.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/install.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/install/local.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/ScannerApp_autogen_timestamp_deps.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/CMakeFiles/ScannerApp_autogen.dir

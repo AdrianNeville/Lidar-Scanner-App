@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8e246ba4f89d49e14b79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ScannerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ScannerApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScannerApp-Debug-edb1e2ce97ce18095e38.json",
+					"name" : "ScannerApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ScannerApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScannerApp_autogen-Debug-97be31451a3f599d2453.json",
+					"name" : "ScannerApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ScannerApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScannerApp_autogen_timestamp_deps-Debug-19b2faea1685357aeca0.json",
+					"name" : "ScannerApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/naird/QT/ScannerApp/build/3DScanner-Debug",
+		"source" : "C:/Users/naird/QT/ScannerApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,8 @@
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/ScannerApp.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/edit_cache.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/list_install_components.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/install.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/install/local.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/ScannerApp_autogen_timestamp_deps.dir
+C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/CMakeFiles/ScannerApp_autogen.dir

@@ -1,0 +1,1635 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "ScannerApp.exe"
+		},
+		{
+			"path" : "ScannerApp.pdb"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_add_executable",
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"_find_package",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"boostcfg_find_component",
+			"find_boost",
+			"find_external_library",
+			"find_flann",
+			"set_property",
+			"find_qhull",
+			"add_definitions",
+			"target_include_directories",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"C:/Users/naird/vcpkg/scripts/buildsystems/vcpkg.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6/Qt6Config.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+			"C:/Qt/qt-build/qtbase/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_iostreams/boost_iostreams-targets.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_iostreams/boost_iostreams-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost/BoostConfig.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/pcl/PCLConfig.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_spirit/boost_spirit-targets.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_spirit/boost_spirit-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_serialization/boost_serialization-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_thread/boost_thread-targets.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_thread/boost_thread-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_atomic/boost_atomic-targets.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_atomic/boost_atomic-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/boost_filesystem/boost_filesystem-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/lz4/lz4Config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/flann/flann-config.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/pcl/Modules/FindFLANN.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/pcl/Modules/FindQhull.cmake",
+			"C:/Users/naird/vcpkg/installed/x64-windows/share/eigen3/UseEigen3.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 957,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 644,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 703,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 598,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 117,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 94,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 91,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 12
+			},
+			{
+				"file" : 5,
+				"parent" : 13
+			},
+			{
+				"command" : 10,
+				"file" : 5,
+				"line" : 181,
+				"parent" : 14
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 15
+			},
+			{
+				"file" : 4,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 55,
+				"parent" : 17
+			},
+			{
+				"file" : 3,
+				"parent" : 18
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 52,
+				"parent" : 19
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 43,
+				"parent" : 17
+			},
+			{
+				"file" : 10,
+				"parent" : 21
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 43,
+				"parent" : 22
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 143,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 24
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 25
+			},
+			{
+				"file" : 7,
+				"parent" : 26
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 55,
+				"parent" : 27
+			},
+			{
+				"file" : 6,
+				"parent" : 28
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 52,
+				"parent" : 29
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 645,
+				"parent" : 2
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 143,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 32
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 33
+			},
+			{
+				"file" : 12,
+				"parent" : 34
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 57,
+				"parent" : 35
+			},
+			{
+				"file" : 11,
+				"parent" : 36
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 52,
+				"parent" : 37
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 45,
+				"parent" : 35
+			},
+			{
+				"file" : 15,
+				"parent" : 39
+			},
+			{
+				"command" : 12,
+				"file" : 15,
+				"line" : 44,
+				"parent" : 40
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 143,
+				"parent" : 41
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 42
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 43
+			},
+			{
+				"file" : 14,
+				"parent" : 44
+			},
+			{
+				"command" : 8,
+				"file" : 14,
+				"line" : 55,
+				"parent" : 45
+			},
+			{
+				"file" : 13,
+				"parent" : 46
+			},
+			{
+				"command" : 7,
+				"file" : 13,
+				"line" : 52,
+				"parent" : 47
+			},
+			{
+				"command" : 7,
+				"file" : 13,
+				"line" : 70,
+				"parent" : 47
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 50
+			},
+			{
+				"file" : 20,
+				"parent" : 51
+			},
+			{
+				"command" : 15,
+				"file" : 20,
+				"line" : 555,
+				"parent" : 52
+			},
+			{
+				"command" : 14,
+				"file" : 20,
+				"line" : 280,
+				"parent" : 53
+			},
+			{
+				"command" : 10,
+				"file" : 20,
+				"line" : 107,
+				"parent" : 54
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 847,
+				"parent" : 55
+			},
+			{
+				"file" : 19,
+				"parent" : 56
+			},
+			{
+				"command" : 9,
+				"file" : 19,
+				"line" : 3,
+				"parent" : 57
+			},
+			{
+				"file" : 18,
+				"parent" : 58
+			},
+			{
+				"command" : 13,
+				"file" : 18,
+				"line" : 128,
+				"parent" : 59
+			},
+			{
+				"command" : 10,
+				"file" : 18,
+				"line" : 67,
+				"parent" : 60
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 61
+			},
+			{
+				"file" : 17,
+				"parent" : 62
+			},
+			{
+				"command" : 8,
+				"file" : 17,
+				"line" : 68,
+				"parent" : 63
+			},
+			{
+				"file" : 16,
+				"parent" : 64
+			},
+			{
+				"command" : 7,
+				"file" : 16,
+				"line" : 60,
+				"parent" : 65
+			},
+			{
+				"command" : 13,
+				"file" : 18,
+				"line" : 128,
+				"parent" : 59
+			},
+			{
+				"command" : 10,
+				"file" : 18,
+				"line" : 67,
+				"parent" : 67
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 68
+			},
+			{
+				"file" : 23,
+				"parent" : 69
+			},
+			{
+				"command" : 11,
+				"file" : 23,
+				"line" : 52,
+				"parent" : 70
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 71
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 72
+			},
+			{
+				"file" : 22,
+				"parent" : 73
+			},
+			{
+				"command" : 8,
+				"file" : 22,
+				"line" : 94,
+				"parent" : 74
+			},
+			{
+				"file" : 21,
+				"parent" : 75
+			},
+			{
+				"command" : 7,
+				"file" : 21,
+				"line" : 60,
+				"parent" : 76
+			},
+			{
+				"command" : 11,
+				"file" : 22,
+				"line" : 73,
+				"parent" : 74
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 78
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 79
+			},
+			{
+				"file" : 25,
+				"parent" : 80
+			},
+			{
+				"command" : 8,
+				"file" : 25,
+				"line" : 87,
+				"parent" : 81
+			},
+			{
+				"file" : 24,
+				"parent" : 82
+			},
+			{
+				"command" : 7,
+				"file" : 24,
+				"line" : 60,
+				"parent" : 83
+			},
+			{
+				"command" : 13,
+				"file" : 18,
+				"line" : 128,
+				"parent" : 59
+			},
+			{
+				"command" : 10,
+				"file" : 18,
+				"line" : 67,
+				"parent" : 85
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 86
+			},
+			{
+				"file" : 28,
+				"parent" : 87
+			},
+			{
+				"command" : 11,
+				"file" : 28,
+				"line" : 46,
+				"parent" : 88
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 89
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 90
+			},
+			{
+				"file" : 27,
+				"parent" : 91
+			},
+			{
+				"command" : 8,
+				"file" : 27,
+				"line" : 33,
+				"parent" : 92
+			},
+			{
+				"file" : 26,
+				"parent" : 93
+			},
+			{
+				"command" : 7,
+				"file" : 26,
+				"line" : 60,
+				"parent" : 94
+			},
+			{
+				"command" : 6,
+				"file" : 20,
+				"line" : 711,
+				"parent" : 52
+			},
+			{
+				"command" : 15,
+				"file" : 20,
+				"line" : 555,
+				"parent" : 52
+			},
+			{
+				"command" : 16,
+				"file" : 20,
+				"line" : 284,
+				"parent" : 97
+			},
+			{
+				"command" : 10,
+				"file" : 20,
+				"line" : 239,
+				"parent" : 98
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 99
+			},
+			{
+				"file" : 31,
+				"parent" : 100
+			},
+			{
+				"command" : 10,
+				"file" : 31,
+				"line" : 45,
+				"parent" : 101
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 102
+			},
+			{
+				"file" : 30,
+				"parent" : 103
+			},
+			{
+				"command" : 11,
+				"file" : 30,
+				"line" : 28,
+				"parent" : 104
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 105
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 106
+			},
+			{
+				"file" : 29,
+				"parent" : 107
+			},
+			{
+				"command" : 7,
+				"file" : 29,
+				"line" : 30,
+				"parent" : 108
+			},
+			{
+				"command" : 15,
+				"file" : 20,
+				"line" : 552,
+				"parent" : 52
+			},
+			{
+				"command" : 18,
+				"file" : 20,
+				"line" : 286,
+				"parent" : 110
+			},
+			{
+				"command" : 10,
+				"file" : 20,
+				"line" : 141,
+				"parent" : 111
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 893,
+				"parent" : 112
+			},
+			{
+				"file" : 32,
+				"parent" : 113
+			},
+			{
+				"command" : 17,
+				"file" : 32,
+				"line" : 77,
+				"parent" : 114
+			},
+			{
+				"command" : 19,
+				"file" : 2,
+				"line" : 100,
+				"parent" : 0
+			},
+			{
+				"command" : 20,
+				"file" : 2,
+				"line" : 96,
+				"parent" : 0
+			},
+			{
+				"command" : 15,
+				"file" : 20,
+				"line" : 555,
+				"parent" : 52
+			},
+			{
+				"command" : 8,
+				"file" : 20,
+				"line" : 336,
+				"parent" : 118
+			},
+			{
+				"file" : 33,
+				"parent" : 119
+			},
+			{
+				"command" : 21,
+				"file" : 33,
+				"line" : 6,
+				"parent" : 120
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O1 /Ob1 /DNDEBUG -std:c++17"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "-utf-8"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-openmp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 116,
+					"define" : "BOOST_ALL_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_ATOMIC_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_ATOMIC_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_CHRONO_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_CHRONO_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_CONTAINER_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_CONTAINER_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_DATE_TIME_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_DATE_TIME_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_FILESYSTEM_DYN_LINK=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_FILESYSTEM_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_IOSTREAMS_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_IOSTREAMS_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_RANDOM_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_RANDOM_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_SERIALIZATION_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_SERIALIZATION_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_THREAD_DYN_LINK"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_THREAD_NO_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "BOOST_THREAD_USE_DLL"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_OPENGLWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_SERIALPORT_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_WIN64"
+				},
+				{
+					"backtrace" : 116,
+					"define" : "__SSE2__"
+				},
+				{
+					"backtrace" : 116,
+					"define" : "__SSE3__"
+				},
+				{
+					"backtrace" : 116,
+					"define" : "__SSE4_1__"
+				},
+				{
+					"backtrace" : 116,
+					"define" : "__SSE4_2__"
+				},
+				{
+					"backtrace" : 116,
+					"define" : "__SSE__"
+				},
+				{
+					"backtrace" : 116,
+					"define" : "__SSSE3__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/naird/QT/ScannerApp/build/3DScanner-MinSizeRel/ScannerApp_autogen/include"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "C:/Users/naird/QT/ScannerApp"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "C:/Users/naird/QT/ScannerApp/types"
+				},
+				{
+					"backtrace" : 121,
+					"isSystem" : true,
+					"path" : "C:/Users/naird/vcpkg/installed/x64-windows/include/eigen3"
+				},
+				{
+					"backtrace" : 117,
+					"isSystem" : true,
+					"path" : "C:/Users/naird/vcpkg/installed/x64-windows/include"
+				},
+				{
+					"backtrace" : 31,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include"
+				},
+				{
+					"backtrace" : 31,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 31,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-everywhere-src-6.8.0/qtbase/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 11,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 11,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include/QtOpenGLWidgets"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "C:/Qt/qt-build/qtbase/include/QtSerialPort"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					31,
+					31,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10,
+					10
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				5,
+				7,
+				10,
+				15,
+				20,
+				25,
+				34,
+				39
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/naird/QT"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "ScannerApp_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "ScannerApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ScannerApp::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/ScannerApp"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O1 /Ob1 /DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /INCREMENTAL:NO /subsystem:windows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6OpenGLWidgets.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6OpenGL.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6SerialPort.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_segmentation.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_surface.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_keypoints.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_tracking.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_recognition.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_stereo.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\flann_cpp.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6Widgets.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6Gui.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "d3d11.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "dxgi.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "dxguid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "d3d12.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6Core.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "mpr.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "userenv.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 48,
+				"fragment" : "C:\\Qt\\qt-build\\qtbase\\lib\\Qt6EntryPoint.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 49,
+				"fragment" : "shell32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_ml.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_registration.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_features.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_filters.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_sample_consensus.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_search.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_kdtree.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_io.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_octree.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_io_ply.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\pcl_common.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_iostreams-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 66,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_random-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_filesystem-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_serialization-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 77,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_thread-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 84,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_atomic-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 95,
+				"fragment" : "synchronization.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 84,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_chrono-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_system-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 84,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_date_time-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 84,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\boost_container-vc143-mt-x64-1_87.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 96,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\libpng16.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 96,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\zlib.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 109,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\lz4.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 115,
+				"fragment" : "C:\\Users\\naird\\vcpkg\\installed\\x64-windows\\lib\\qhull_r.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX",
+		"sysroot" : 
+		{
+			"path" : "C:/Users/naird/QT"
+		}
+	},
+	"name" : "ScannerApp",
+	"nameOnDisk" : "ScannerApp.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				5,
+				7,
+				10,
+				15,
+				20,
+				25,
+				34,
+				39
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				6,
+				8,
+				9,
+				14,
+				18,
+				19,
+				22,
+				23,
+				24,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				35,
+				36,
+				37
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				4,
+				11,
+				12,
+				13,
+				16,
+				17,
+				21,
+				38
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				40,
+				41
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "mainwindow.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "visualizer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "visualizer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "pcdvertices.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "pcdvertices.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "pointcloudhandler.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "pointcloudhandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "vis_frag.glsl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "vis_vert.glsl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "resources.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "gridvertices.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "gridvertices.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "grid_frag.glsl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "grid_vert.glsl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "colorutils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "propdialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "propdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "propdialog.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/position.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/keyframe.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "helpers/PointCloudIO.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "PointCloudIO.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/pointtypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "utils/position_utils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/pose.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/node.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "constants.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/edge.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/posegraph.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "helpers/TransformHelper.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "TransformHelper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "types/registrationresult.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/include/ui_propdialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/EWIEGA46WW/qrc_resources.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/3DScanner-MinSizeRel/ScannerApp_autogen/EWIEGA46WW/qrc_resources.cpp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

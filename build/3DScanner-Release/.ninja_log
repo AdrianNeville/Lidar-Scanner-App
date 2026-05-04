@@ -1,0 +1,14 @@
+# ninja log v5
+97	5568	7616835669510544	ScannerApp_autogen/timestamp	ce36b469a57672bc
+97	5568	7616835669510544	ScannerApp_autogen/mocs_compilation.cpp	ce36b469a57672bc
+97	5568	7616835669510544	C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/ScannerApp_autogen/timestamp	ce36b469a57672bc
+97	5568	7616835669510544	C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/ScannerApp_autogen/mocs_compilation.cpp	ce36b469a57672bc
+5570	6106	7616835680553240	ScannerApp_autogen/EWIEGA46WW/qrc_resources.cpp	c61c28d52ae576f
+5570	6106	7616835680553240	C:/Users/naird/QT/ScannerApp/build/3DScanner-Release/ScannerApp_autogen/EWIEGA46WW/qrc_resources.cpp	c61c28d52ae576f
+6154	6644	7616835686371578	CMakeFiles/ScannerApp.dir/ScannerApp_autogen/EWIEGA46WW/qrc_resources.cpp.obj	7bcdd0b5e7bc3cb9
+6146	21099	7616835830291094	CMakeFiles/ScannerApp.dir/gridvertices.cpp.obj	7c00fbc687f3b1c0
+6122	21691	7616835836690387	CMakeFiles/ScannerApp.dir/main.cpp.obj	a1dc319af7012345
+6112	22537	7616835844051048	CMakeFiles/ScannerApp.dir/ScannerApp_autogen/mocs_compilation.cpp.obj	70835097f4646826
+6129	24572	7616835865118380	CMakeFiles/ScannerApp.dir/mainwindow.cpp.obj	ff3fb0047397817
+6137	26711	7616835886750561	CMakeFiles/ScannerApp.dir/visualizer.cpp.obj	db35d0bcd4be03ba
+26712	27855	7616835895733349	ScannerApp.exe	368d97ef05d4239c
