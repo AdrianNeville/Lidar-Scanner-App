@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vis_frag.glsl</file>
+        <file>vis_vert.glsl</file>
+        <file>grid_frag.glsl</file>
+        <file>grid_vert.glsl</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>settings.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,22 @@
+# Build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Qt specific
+*.pro.user
+*.user
+*.autosave
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db

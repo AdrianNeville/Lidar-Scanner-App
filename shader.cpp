@@ -1,0 +1,30 @@
+#ifndef SHADER_H
+#define SHADER_H
+
+
+#include<string>
+#include <fstream>
+#include <sstream>
+#include <iostream>
+
+#include <
+#include<glm/gtc/type_ptr.hpp>
+
+class Shader {
+public:
+    unsigned int id;
+
+    Shader(const char* vertexShaderPath, const char* fragmentShaderPath);
+    void activate();
+
+    //Utility Functions
+    std::string loadShaderSrc(const char* filePath);
+    GLuint compileShader(const char* filePath, GLenum type);
+
+    //Uniform Functions
+    void setMat4(const std::string& name, glm::mat4 val);
+    void setInt(const std::string& name, int value);
+    void setFloat (const std::string& name, float value);
+};
+
+#endif
